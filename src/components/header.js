@@ -15,7 +15,7 @@ const Header = ({ siteTitle }) => (
       <Nav.Item as="li" id="nav-linha">
      
       <Link to="/page-4" className="nav-link" activeClassName="active"><a id="test">Bike</a></Link>
-      <Link to="/page-3" className="nav-link" activeClassName="active"><a id="test">Acessorios</a></Link>
+      <Link to="/page-3" className="nav-link" activeClassName="active"><a id="test">Acessórios</a></Link>
       <Link to="/page-2" className="nav-link" activeClassName="active"><a id="test">Contatos</a></Link>
       
       </Nav.Item>

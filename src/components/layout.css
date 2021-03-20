@@ -683,6 +683,8 @@ text-align: center;
 color:#dc3545;
 font-family: Arial, Helvetica, sans-serif;
 letter-spacing: 1px;
+font-weight: bold;
+font-size: 20px;
 }
 
 a :hover{
@@ -708,11 +710,12 @@ text-align: center;
 }
 
 #git a {
-color:white;
+color: #dc3545;
 font-family: Arial, Helvetica, sans-serif;
 font-size: 25px;
 text-decoration: none;
 margin-left: 60vh;
+font-weight: bold;
 
 }
 
@@ -735,6 +738,34 @@ font-size: 40px;
 #textinn{
 font-family: Arial, Helvetica, sans-serif;
 color: white;  
+}
+
+#texo-final{
+text-align: justify;
+color:yellow;
+font-family: Arial, Helvetica, sans-serif;
+font-weight: bold;
+}
+
+#texto-final1{
+text-align: justify;
+color: orangered;
+font-family: Arial, Helvetica, sans-serif;
+font-weight: bold;
+font-size: 35px;
+}
+
+#card-total{
+background-image: url(../images/trilha.jpeg);
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+border: solid 50px rgba(100, 148, 237, 0.5);
+border-radius: 100px 20px;
+
+}
+#git{
+background-image: url(../images/roda3.jpeg);
 }
 
 
