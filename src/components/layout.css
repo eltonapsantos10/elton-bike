@@ -18,6 +18,8 @@ body {
   -ms-font-feature-settings: "kern", "liga", "clig", "calt";
   -webkit-font-feature-settings: "kern", "liga", "clig", "calt";
   font-feature-settings: "kern", "liga", "clig", "calt";
+  background-image: url('../images/ciclo2.jpeg');
+  
 }
 article,
 aside,
@@ -57,6 +59,7 @@ a {
 a:active,
 a:hover {
   outline-width: 0;
+  
 }
 abbr[title] {
   border-bottom: 1px dotted hsla(0, 0%, 0%, 0.5);
@@ -88,6 +91,7 @@ h1 {
   font-size: 2.25rem;
   line-height: 1.1;
 }
+
 mark {
   background-color: #ff0;
   color: #000;
@@ -595,3 +599,142 @@ pre tt:after {
     font-size: 100%;
   }
 }
+
+#el{
+  color: yellow;
+}
+
+#titulo-nome{
+font-family: Arial, Helvetica, sans-serif;
+color: white;
+letter-spacing: 1px;
+margin-left: 20px;
+
+}
+
+
+.nav-link {
+display: inline;
+color: white;
+margin: 10px;
+
+}
+
+#formulario{
+color: yellow;
+
+}
+
+label {
+color: white;
+}
+
+
+
+
+
+
+
+
+
+.jumb-geral{
+background-color: rgba(128, 128, 128, 0.61);
+width: 200px;
+}
+
+.jumb-geral2 {
+background-color: rgba(128, 128, 128, 0.61);
+width: 200px;
+margin-left: 365px;
+margin-top: -465px;
+}
+
+.jumb-geral3 {
+  background-color: rgba(128, 128, 128, 0.61);
+  width: 200px;
+  margin-left: 720px;
+  margin-top: -470px;
+
+}
+
+.jumb-geral4 {
+border-radius: 150px 80px ;
+background-image: url(../images/slide02.jpeg);
+opacity: 0.7;
+
+height: 75vh;
+
+}
+
+#texto1{
+text-align: center;
+color: white;
+
+}
+
+#text2{
+color: yellow;
+text-align: center;
+
+}
+
+
+#test {
+color:#dc3545;
+font-family: Arial, Helvetica, sans-serif;
+letter-spacing: 1px;
+}
+
+a :hover{
+background-color: rgba(255, 255, 0, 0.986);
+border-radius: 8px;
+
+}
+
+#fundo1 {
+background-image: url(../images/slide01.jpeg);
+
+}
+
+#bot {
+border: none;  
+height: 55px;
+margin-left: 50px;
+}
+
+#comprar {
+text-align: center;
+
+}
+
+#git a {
+color:white;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 25px;
+text-decoration: none;
+margin-left: 60vh;
+
+}
+
+#textinho{
+text-align: justify;
+font-family: Arial, Helvetica, sans-serif;
+color: blue;
+font-weight: bold;
+
+}
+
+#texo11 {
+font-family: Arial, Helvetica, sans-serif;
+color: white;
+font-size: 40px;
+
+
+}
+
+#textinn{
+font-family: Arial, Helvetica, sans-serif;
+color: white;  
+}
+
+
